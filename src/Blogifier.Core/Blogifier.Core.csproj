@@ -13,7 +13,7 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.1" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.1" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.27" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.1" />
 		<PackageReference Include="Microsoft.SyndicationFeed.ReaderWriter" Version="1.0.2" />
 		<PackageReference Include="NETCore.MailKit" Version="2.0.3" />
